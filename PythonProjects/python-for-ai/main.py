@@ -89,7 +89,7 @@ with st.sidebar:
 
     st.link_button(
         "✉️ E-mail para suporte",
-        "mailto:paulo.ap359@gmail.com"
+        "mailto:digiteoemailquevoceutilizara"
     )
 
 
